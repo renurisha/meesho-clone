@@ -1,0 +1,68 @@
+.Box{
+    /* border: 5px solid red; */
+    background-color: rgb(183, 236, 252);
+}
+.searchBox{
+    /* border: 1px solid red; */
+    width: 50% !important;
+    height: 80%;
+    border: 1px solid rgb(107, 106, 106);
+    /* margin-left: -500px; */
+}
+.headerLeftBoxes{
+    display: flex;
+    gap: 5px;
+    width: 40%;
+    /* height: 50%; */
+    margin:0 0 0 30% ;
+    /* border: 1px solid red; */
+}
+.hLBox{
+    width:25%;
+    /* height: 50%; */
+    border: 1px solid rgb(167, 166, 166);
+}
+.hLBox>p{
+    color: rgb(5, 5, 5);
+    
+}
+
+
+
+.flex{
+    display: flex;
+}
+.dropdown{
+    gap: 5%;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    
+    background-color: white;
+    min-width: 1200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    font-family: lato;
+    /* border: 5px solid green; */
+    
+  }
+.dropdown:hover .dropdown-content {
+    display: block;
+    
+    
+  }
+
+  .DropDownBox{
+      margin: auto;
+   
+      width: 80%;
+      gap: 2%;
+  }
+  .dropbtn{
+      font-size: 105%;
+      padding: 5% 8%;
+      margin:1% 5%;
+      
+      width: 100%;
+
+  }

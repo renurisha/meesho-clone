@@ -1,0 +1,50 @@
+
+.mainBox{
+    /* border: 2px solid red; */
+    width: 80%;
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.leftSide{
+    /* border: 1px solid green; */
+    width: 48%;
+    margin: 5%;
+    text-align: center;
+   
+}
+.mImg{
+    margin-top: 5%;
+}
+.mImg>img{
+    width: 80%;
+    
+}
+.sImg{
+    gap: 5%;
+  margin-left: 10%;
+}
+.sImg>img{
+    width: 20%;
+   
+}
+
+.rightSide{
+padding: 0 2%;
+/* border: 1px solid green; */
+    width: 48%;
+    margin: 5% 5% 5% 0;
+    text-align: center;
+    text-align: left;
+   /* line-height: 95%; */
+}
+.details>p{
+    width: 27%;
+}
+.gap3{
+    gap: 3%;
+}
+.border{
+    border: 1px solid rgb(177, 172, 172);
+}

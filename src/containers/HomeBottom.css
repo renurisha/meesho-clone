@@ -1,0 +1,45 @@
+.HomeBottom{
+    margin: auto;
+    width: 75%;
+    /* border: 1px solid red; */
+}
+
+.img3>img{
+    width: 33%;
+    height: 300px;
+    margin: auto;
+}
+.img1>img{
+    width: 100%;
+}
+
+.x{
+    /* width: 110%;
+    margin: auto;
+    border: 1px solid rgb(2, 112, 26); */
+    text-align: left;
+}
+.a{
+    width: 50%;
+    /* border: 1px solid red; */
+}
+.b{
+    width: 20%;
+    /* border: 1px solid red; */
+}
+.c{
+    width: 20%;
+    /* border: 1px solid red; */
+}
+.d{
+    width: 25%;
+    
+    /* border: 1px solid red; */
+}
+.d>a{
+    gap: 5%;
+}
+.e{
+    width: 30%;
+    /* border: 1px solid red; */
+}
